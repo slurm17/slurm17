@@ -1,8 +1,8 @@
-<h1>¡Hola! me llamo Eric y soy desarrollador Front-End.</h1>
+<h1>¡Hola! me llamo Eric y soy desarrollador</h1>
 
 - 💻 Trabajo con ReactJS utilizando Sass y JavaScript. 
-- 📝 Tambien tengo conociminetos en PostgreSQL, MongoDB, C# y estoy dispuesto a aprender cualquier tipo de tecnología.
-- 🎓 Estoy estudiando la Tecnicatura Superior en Programación en la UTN.
+- 📝 Tambien tengo conociminetos en C#, C++, Python, SQL, HTML5, CSS3(Sass), Dart(Flutter) y estoy dispuesto a aprender cualquier tipo de tecnología.
+- 🎓 Estoy estudiando la Tecnicatura Universitaria en Programación en la UTN.
 
 <h2>Soy @ericbusten en mis redes solciales</h1>
 
